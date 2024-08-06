@@ -7,3 +7,5 @@
 "C:\Users\sanja\OneDrive\Pictures\Screenshots\Screenshot 2024-08-05 201915.png"
 "C:\Users\sanja\OneDrive\Pictures\Screenshots\Screenshot 2024-08-05 201930.png"
 "C:\Users\sanja\OneDrive\Pictures\Screenshots\Screenshot 2024-08-05 201944.png"
+"C:\Users\sanja\OneDrive\Pictures\Screenshots\Screenshot 2024-08-05 163941.png"
+"C:\Users\sanja\OneDrive\Pictures\Screenshots\Screenshot 2024-08-05 163955.png"
